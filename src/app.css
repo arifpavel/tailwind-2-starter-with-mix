@@ -1,0 +1,8 @@
+/* import fonts */
+
+/* import tailwind css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* custom css */
