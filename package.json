@@ -11,9 +11,9 @@
     "prod": "npm run production",
     "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["Tailwind", "Tailwind 2", "Tailwindcss"],
+  "author": "Arif Pavel",
+  "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^9.8.6",
     "cross-env": "^7.0.2",
